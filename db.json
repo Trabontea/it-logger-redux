@@ -27,6 +27,13 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2021-05-31T19:57:35.544Z"
+    },
+    {
+      "id": 5,
+      "message": "Asta e un log fixed on workst 02",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2022-03-18T08:40:02.260Z"
     }
   ],
   "techs": [
