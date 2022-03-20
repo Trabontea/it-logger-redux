@@ -15,42 +15,59 @@
       "date": "2021-05-31T16:18:04.245Z"
     },
     {
+      "id": 3,
       "message": "1122 wireless down",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2021-05-31T15:46:48.690Z",
-      "id": 3
+      "tech": "Sam  Wilson",
+      "date": "2022-03-20T14:48:19.778Z"
     },
     {
       "id": 4,
       "message": "Workstation 026 is up and running",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2021-05-31T19:57:35.544Z"
+      "tech": "Sara Smith",
+      "date": "2022-03-20T14:48:31.860Z"
     },
     {
       "id": 5,
       "message": "Asta e un log fixed on workst 02",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2022-03-18T08:40:02.260Z"
+      "date": "2022-03-20T13:50:53.492Z"
+    },
+    {
+      "id": 6,
+      "message": "Inca un log blablabla cu muie",
+      "attention": true,
+      "tech": "Daniel Franaru",
+      "date": "2022-03-20T14:24:15.531Z"
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
+      "firstName": "Daniel",
+      "lastName": "Franaru",
+      "id": 4
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
+      "firstName": "Sam ",
+      "lastName": "Wilson",
+      "id": 5
     },
     {
-      "id": 3,
+      "firstName": "Jhon",
+      "lastName": "Doe",
+      "id": 6
+    },
+    {
       "firstName": "Sara",
-      "lastName": "Wilson"
+      "lastName": "Smith",
+      "id": 7
+    },
+    {
+      "firstName": "Corleone",
+      "lastName": "Blanosu",
+      "id": 8
     }
   ]
 }
